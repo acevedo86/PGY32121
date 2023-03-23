@@ -3,23 +3,33 @@
 }
 #menu{
    font-family: sans-serif;
+   align-items: center;
    color: white;
    background-color: black; 
-   
+   padding: 20px 100px;
+   align-items: center;
+
 }
 #tituo_1{
-    background-color: lightblue;
     color: white;
+    padding: 25px;
+    background-color: lightblue;
 }
 #tituo_2{
-    background-color: yellow;
+    background-color: rgb(221, 196, 7);
+    padding: 25px;
+    height: 25%;
     color: white;
 }
 #tituo_3{
     background-color: orange;
+    padding: 25px;
+    height: 25%;
     color: white;
 }
 #tituo_4{
     background-color: red;
+    padding: 25px;
+    height: 25%;
     color: white;
 }
