@@ -1,13 +1,25 @@
-#lat{
-   font-family: sans-serif; 
-
+*{
+    font-family: sans-serif;
+}
+#menu{
+   font-family: sans-serif;
+   color: white;
+   background-color: black; 
+   
 }
 #tituo_1{
     background-color: lightblue;
+    color: white;
 }
 #tituo_2{
     background-color: yellow;
+    color: white;
 }
 #tituo_3{
     background-color: orange;
+    color: white;
+}
+#tituo_4{
+    background-color: red;
+    color: white;
 }
