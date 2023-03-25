@@ -6,7 +6,7 @@
    align-items: center;
    color: white;
    background-color: black; 
-   padding: 20px 100px;
+    /*padding: 20px 100px;*/
    align-items: center;
 
 }
@@ -32,4 +32,21 @@
     padding: 25px;
     height: 25%;
     color: white;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-areas: 
+        "sidebar main";
+
+}
+
+
+
+.sidebar ul li a {
+
+    background:black;
+    text-decoration: none;
+    color: white;
+
 }
