@@ -57,10 +57,21 @@
 }
 
 .main {
-    width: 79%;
+    width: 80%;
     height: 100%;
     margin-left: 20%; 
     font-size: 28px; 
     padding: 0px 1px;
     background-color: black;
 }
+
+
+ul li a {
+    width: 25%;
+    height: 100%;
+    background:black;
+    text-decoration: none;
+    color: white;
+    
+    }
+    
