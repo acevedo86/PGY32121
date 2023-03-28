@@ -35,18 +35,32 @@
     color: white;
 }
 
-.container{
+/*.container{
     display: grid;
     grid-template-areas: 
         "sidebar main";
     grid-template-columns: repeat (3, 1fr) ;
+}*/
+
+.sidebar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+    
+
 }
 
-.sidebar ul li a {
-    grid-column: 1/1;
-    background:black;
-    text-decoration: none;
-    color: white;
-
+.main {
+    width: 79%;
+    height: 100%;
+    margin-left: 20%; 
+    font-size: 28px; 
+    padding: 0px 1px;
+    background-color: black;
 }
-
