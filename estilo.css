@@ -10,37 +10,7 @@
    align-items: center;
 
 }
-#tituo_1{
-    color: white;
-    padding: 25px;
-    background-color: lightblue;
-}
-#tituo_2{
-    background-color: rgb(221, 196, 7);
-    padding: 25px;
-    height: 25%;
-    color: white;
-}
-#tituo_3{
-    background-color: orange;
-    padding: 25px;
-    height: 25%;
-    color: white;
-}
-#tituo_4{
-    
-    background-color: red;
-    padding: 25px;
-    height: 25%;
-    color: white;
-}
 
-/*.container{
-    display: grid;
-    grid-template-areas: 
-        "sidebar main";
-    grid-template-columns: repeat (3, 1fr) ;
-}*/
 
 .sidebar {
     height: 100%;
